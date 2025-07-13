@@ -1,5 +1,5 @@
 # LLM Chatbot
-ICP Ninja Link : (https://icp.ninja/i?s=wZXYD)[https://icp.ninja/i?s=wZXYD]
+ICP Ninja Link : [https://icp.ninja/i?s=wZXYD](https://icp.ninja/i?s=wZXYD)
 
 
 The LLM Chatbot example demonstrates how an ICP smart contract can be used to interact with a large language model (LLM) to generate text. The user can input a prompt, and the smart contract will use the LLM to generate a response.
